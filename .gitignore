@@ -1,4 +1,6 @@
 *.directory
 *a.out
 build/
+obj/
+bin/
 /tmp
