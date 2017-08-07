@@ -1,0 +1,4 @@
+*.directory
+*a.out
+build/
+/tmp
