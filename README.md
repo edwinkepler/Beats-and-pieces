@@ -7,5 +7,5 @@ Programs and solutions from tutorials, daily coding routines and such.
 ### Exercism
 
 - C++
-  - [Leap](./Exercism/cpp/leap/README.md)
+  - [Leap](./Exercism/cpp/leap)
 
