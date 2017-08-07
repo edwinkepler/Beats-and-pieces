@@ -10,5 +10,6 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Hello, World!](./Exercism/csharp/hello-world)
 
 - C++
+  - [Hello, World!](./Exercism/cpp/hello-world)
   - [Leap](./Exercism/cpp/leap)
 
