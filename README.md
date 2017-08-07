@@ -6,6 +6,9 @@ Programs and solutions from tutorials, daily coding routines and such.
 
 ### Exercism
 
+- C#
+  - [Hello, World!](./Exercism/csharp/hello-world)
+
 - C++
   - [Leap](./Exercism/cpp/leap)
 
