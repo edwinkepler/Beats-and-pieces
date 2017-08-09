@@ -10,6 +10,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Hello, World!](./Exercism/csharp/hello-world)
   - [Leap](./Exercism/csharp/leap)
   - [Bob](./Exercism/csharp/bob)
+  - [Sum of multiples](./Exercism/csharp/sum-of-multiples)
 
 - C++
   - [Hello, World!](./Exercism/cpp/hello-world)
