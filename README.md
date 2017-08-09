@@ -16,6 +16,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Hello, World!](./Exercism/cpp/hello-world)
   - [Leap](./Exercism/cpp/leap)
   - [Gigasecond](./Exercism/cpp/gigasecond)
+  - [Humming](./Exercism/cpp/humming)
 
 ### HackerRank
 
