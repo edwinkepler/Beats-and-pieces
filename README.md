@@ -9,6 +9,7 @@ Programs and solutions from tutorials, daily coding routines and such.
 - C#
   - [Hello, World!](./Exercism/csharp/hello-world)
   - [Leap](./Exercism/csharp/leap)
+  - [Bob](./Exercism/csharp/bob)
 
 - C++
   - [Hello, World!](./Exercism/cpp/hello-world)
