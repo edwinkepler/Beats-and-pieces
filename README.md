@@ -25,6 +25,7 @@ Programs and solutions from tutorials, daily coding routines and such.
 - Algorithms
   - [Solve me first](./HackerRank/algorithms/solve-me-first)
   - [Simple array sum](./HackerRank/algorithms/simple-array-sum)
+  - [Compare the triplets](./HackerRank/algorithms/compare-the-triplets)
 
 ### ProjectEuler
 
