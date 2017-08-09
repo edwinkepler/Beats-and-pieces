@@ -20,3 +20,4 @@ Programs and solutions from tutorials, daily coding routines and such.
 
 - 30 days of coding
   - [00. Hello, World](./HackerRank/30-days-of-coding/00-hello-world)
+  - [01. Data types](./HackerRank/30-days-of-coding/01-data-types)
