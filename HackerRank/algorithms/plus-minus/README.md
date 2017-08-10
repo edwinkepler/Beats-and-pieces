@@ -4,6 +4,6 @@ Given an array of integers, calculate which fraction of its elements are positiv
 
 ## HackerRank
 
-This problem comes from [https://www.hackerrank.com/challenges/a-very-big-sum/problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
+This problem comes from [https://www.hackerrank.com/challenges/plus-minus/problem](https://www.hackerrank.com/challenges/plus-minus/problem)
 
 Author [vatsalchanana](https://www.hackerrank.com/vatsalchanana)

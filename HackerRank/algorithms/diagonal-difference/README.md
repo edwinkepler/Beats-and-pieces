@@ -4,6 +4,6 @@ Given a square matrix of size N x N, calculate the absolute difference between t
 
 ## HackerRank
 
-This problem comes from [https://www.hackerrank.com/challenges/a-very-big-sum/problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
+This problem comes from [https://www.hackerrank.com/challenges/diagonal-difference/problem](https://www.hackerrank.com/challenges/diagonal-difference/problem)
 
 Author [vatsalchanana](https://www.hackerrank.com/vatsalchanana)
