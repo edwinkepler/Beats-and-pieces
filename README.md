@@ -40,6 +40,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Birthday cake candles](./HackerRank/algorithms/birthday-cake-candles)
   - [Time convertion](./HackerRank/algorithms/time-convertion)
   - [Grading students](./HackerRank/algorithms/grading-students)
+  - [Apple and orange](./HackerRank/algorithms/apple-and-orange)
 
 ### ProjectEuler
 
