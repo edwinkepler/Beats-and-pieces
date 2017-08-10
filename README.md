@@ -26,6 +26,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [00. Hello, World](./HackerRank/30-days-of-coding/00-hello-world)
   - [01. Data types](./HackerRank/30-days-of-coding/01-data-types)
   - [02. Operators](./HackerRank/30-days-of-coding/02-operators)
+  - [03. Intro to conditional statement](./HackerRank/30-days-of-coding)
 
 - Algorithms
   - [Solve me first](./HackerRank/algorithms/solve-me-first)
