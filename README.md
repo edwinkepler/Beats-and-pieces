@@ -36,6 +36,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Diagonal difference](./HackerRank/algorithms/diagonal-difference)
   - [Plus-minus](./HackerRank/algorithms/plus-minus)
   - [Staircase](./HackerRank/algorithms/staircase)
+  - [Mini-max sum](./HackeRank/algorithms/mini-max-sum)
 
 ### ProjectEuler
 
