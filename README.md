@@ -31,6 +31,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Compare the triplets](./HackerRank/algorithms/compare-the-triplets)
   - [A very big sum](./HackerRank/algorithms/a-very-big-sum)
   - [Diagonal difference](./HackerRank/algorithms/diagonal-difference)
+  - [Plus-minus](./HackerRank/algorithms/plus-minus)
 
 ### ProjectEuler
 
