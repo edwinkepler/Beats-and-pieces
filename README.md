@@ -36,7 +36,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Diagonal difference](./HackerRank/algorithms/diagonal-difference)
   - [Plus-minus](./HackerRank/algorithms/plus-minus)
   - [Staircase](./HackerRank/algorithms/staircase)
-  - [Mini-max sum](./HackeRank/algorithms/mini-max-sum)
+  - [Mini-max sum](./HackerRank/algorithms/mini-max-sum)
   - [Birthday cake candles](./HackerRank/algorithms/birthday-cake-candles)
   - [Time convertion](./HackerRank/algorithms/time-convertion)
   - [Grading students](./HackerRank/algorithms/grading-students)
