@@ -11,6 +11,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Leap](./Exercism/csharp/leap)
   - [Bob](./Exercism/csharp/bob)
   - [Sum of multiples](./Exercism/csharp/sum-of-multiples)
+  - [Raindrops](./Exercism/csharp/raindrops)
 
 - C++
   - [Hello, World!](./Exercism/cpp/hello-world)
