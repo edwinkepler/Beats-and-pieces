@@ -39,6 +39,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Mini-max sum](./HackeRank/algorithms/mini-max-sum)
   - [Birthday cake candles](./HackerRank/algorithms/birthday-cake-candles)
   - [Time convertion](./HackerRank/algorithms/time-convertion)
+  - [Grading students](./HackerRank/algorithms/grading-students)
 
 ### ProjectEuler
 
