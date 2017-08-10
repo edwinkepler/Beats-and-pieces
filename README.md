@@ -37,6 +37,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Plus-minus](./HackerRank/algorithms/plus-minus)
   - [Staircase](./HackerRank/algorithms/staircase)
   - [Mini-max sum](./HackeRank/algorithms/mini-max-sum)
+  - [Birthday cake candles](./HackerRank/algorithms/birthday-cake-candles)
 
 ### ProjectEuler
 
