@@ -17,6 +17,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Leap](./Exercism/cpp/leap)
   - [Gigasecond](./Exercism/cpp/gigasecond)
   - [Humming](./Exercism/cpp/humming)
+  - [Bob](./Exercism/cpp/bob)
 
 ### HackerRank
 
