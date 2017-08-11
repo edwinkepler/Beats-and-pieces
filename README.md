@@ -45,6 +45,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Grading students](./HackerRank/algorithms/grading-students)
   - [Apple and orange](./HackerRank/algorithms/apple-and-orange)
   - [Kangaroo](./HackerRank/algorithms/kangaroo)
+  - [Breaking the records](./HackerRank/algorithms/breaking-the-records)
 
 ### ProjectEuler
 
