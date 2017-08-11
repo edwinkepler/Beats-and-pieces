@@ -19,6 +19,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Gigasecond](./Exercism/cpp/gigasecond)
   - [Humming](./Exercism/cpp/humming)
   - [Bob](./Exercism/cpp/bob)
+  - [Anagram](./Exercism/cpp/anagram)
 
 ### HackerRank
 
