@@ -44,6 +44,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Time convertion](./HackerRank/algorithms/time-convertion)
   - [Grading students](./HackerRank/algorithms/grading-students)
   - [Apple and orange](./HackerRank/algorithms/apple-and-orange)
+  - [Kangaroo](./HackerRank/algorithms/kangaroo)
 
 ### ProjectEuler
 
