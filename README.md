@@ -28,7 +28,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [00. Hello, World](./HackerRank/30-days-of-coding/00-hello-world)
   - [01. Data types](./HackerRank/30-days-of-coding/01-data-types)
   - [02. Operators](./HackerRank/30-days-of-coding/02-operators)
-  - [03. Intro to conditional statement](./HackerRank/30-days-of-coding)
+  - [03. Intro to conditional statement](./HackerRank/30-days-of-coding/03-intro-to-conditional-statement)
   - [04. Class vs. instance](./HackerRank/30-days-of-coding/04-class-vs-instance)
 
 - Algorithms
