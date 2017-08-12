@@ -23,6 +23,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Humming](./Exercism/cpp/humming)
   - [Bob](./Exercism/cpp/bob)
   - [Anagram](./Exercism/cpp/anagram)
+  - [ETL](./Exercism/cpp/etl)
 
 ### HackerRank
 
