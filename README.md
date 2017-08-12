@@ -13,6 +13,8 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Sum of multiples](./Exercism/csharp/sum-of-multiples)
   - [Raindrops](./Exercism/csharp/raindrops)
   - [Nucleotide count](./Exercism/csharp/nucleotide-count)
+  - [Accumulate](./Exercism/csharp/accumulate)
+
 
 - C++
   - [Hello, World!](./Exercism/cpp/hello-world)
