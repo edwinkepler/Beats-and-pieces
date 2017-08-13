@@ -52,6 +52,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Apple and orange](./HackerRank/algorithms/implementation/apple-and-orange)
     - [Kangaroo](./HackerRank/algorithms/implementation/kangaroo)
     - [Breaking the records](./HackerRank/algorithms/implementation/breaking-the-records)
+    - [Birthday chocolade](./HackerRank/algorithms/implementation/birthday-chocolade)
 
 ### ProjectEuler
 
