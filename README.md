@@ -36,6 +36,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [03. Intro to conditional statement](./HackerRank/30-days-of-coding/03-intro-to-conditional-statement)
   - [04. Class vs. instance](./HackerRank/30-days-of-coding/04-class-vs-instance)
   - [05. Loops](./HackerRank/30-days-of-coding/05-loops)
+  - [06. Let's review](./HackerRank/30-days-of-coding/06-lets-review)
 
 - Algorithms
   - Warmup
