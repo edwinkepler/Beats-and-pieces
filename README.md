@@ -36,20 +36,22 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [05. Loops](./HackerRank/30-days-of-coding/05-loops)
 
 - Algorithms
-  - [Solve me first](./HackerRank/algorithms/solve-me-first)
-  - [Simple array sum](./HackerRank/algorithms/simple-array-sum)
-  - [Compare the triplets](./HackerRank/algorithms/compare-the-triplets)
-  - [A very big sum](./HackerRank/algorithms/a-very-big-sum)
-  - [Diagonal difference](./HackerRank/algorithms/diagonal-difference)
-  - [Plus-minus](./HackerRank/algorithms/plus-minus)
-  - [Staircase](./HackerRank/algorithms/staircase)
-  - [Mini-max sum](./HackerRank/algorithms/mini-max-sum)
-  - [Birthday cake candles](./HackerRank/algorithms/birthday-cake-candles)
-  - [Time convertion](./HackerRank/algorithms/time-convertion)
-  - [Grading students](./HackerRank/algorithms/grading-students)
-  - [Apple and orange](./HackerRank/algorithms/apple-and-orange)
-  - [Kangaroo](./HackerRank/algorithms/kangaroo)
-  - [Breaking the records](./HackerRank/algorithms/breaking-the-records)
+  - Warmup
+    - [Solve me first](./HackerRank/algorithms/warmup/solve-me-first)
+    - [Simple array sum](./HackerRank/algorithms/warmup/simple-array-sum)
+    - [Compare the triplets](./HackerRank/algorithms/warmup/compare-the-triplets)
+    - [A very big sum](./HackerRank/algorithms/warmup/a-very-big-sum)
+    - [Diagonal difference](./HackerRank/algorithms/warmup/diagonal-difference)
+    - [Plus-minus](./HackerRank/algorithms/warmup/plus-minus)
+    - [Staircase](./HackerRank/algorithms/warmup/staircase)
+    - [Mini-max sum](./HackerRank/algorithms/warmup/mini-max-sum)
+    - [Birthday cake candles](./HackerRank/algorithms/warmup/birthday-cake-candles)
+    - [Time convertion](./HackerRank/algorithms/warmup/time-convertion)
+  - Implementation
+    - [Grading students](./HackerRank/algorithms/implementation/grading-students)
+    - [Apple and orange](./HackerRank/algorithms/implementation/apple-and-orange)
+    - [Kangaroo](./HackerRank/algorithms/implementation/kangaroo)
+    - [Breaking the records](./HackerRank/algorithms/implementation/breaking-the-records)
 
 ### ProjectEuler
 
