@@ -14,6 +14,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Raindrops](./Exercism/csharp/raindrops)
   - [Nucleotide count](./Exercism/csharp/nucleotide-count)
   - [Accumulate](./Exercism/csharp/accumulate)
+  - [Grade school](./Exercism/csharp/grade-school)
 
 
 - C++
