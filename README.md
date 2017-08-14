@@ -26,6 +26,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Anagram](./Exercism/cpp/anagram)
   - [ETL](./Exercism/cpp/etl)
   - [Word count](./Exercism/cpp/word-count)
+  - [Difference of squares](./Exercism/cpp/difference-of-squares)
 
 ### HackerRank
 
