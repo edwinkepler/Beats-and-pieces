@@ -61,7 +61,7 @@ Programs and solutions from tutorials, daily coding routines and such.
 
 - C++
   - Introduction
-    -[Say "Hello, World" with C++](./HackerRank/cpp/introduction/say-hello-world-with-cpp)
+    - [Say "Hello, World" with C++](./HackerRank/cpp/introduction/say-hello-world-with-cpp)
 
 ### ProjectEuler
 
