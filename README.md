@@ -59,6 +59,10 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Breaking the records](./HackerRank/algorithms/implementation/breaking-the-records)
     - [Birthday chocolade](./HackerRank/algorithms/implementation/birthday-chocolade)
 
+- C++
+  - Introduction
+    -[Say "Hello, World" with C++](./HackerRank/cpp/introduction/say-hello-world-with-cpp)
+
 ### ProjectEuler
 
 - [Multiples of 3 and 5](./ProjectEuler/multiples-of-3-and-5)
