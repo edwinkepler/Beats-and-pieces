@@ -69,6 +69,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Input and output](./HackerRank/cpp/introduction/input-and-output)
     - [Basic data types](./HackerRank/cpp/introduction/basic-data-types)
     - [Conditional statements](./HackerRank/cpp/introduction/conditional-statements)
+    - [For loop](./HackerRank/cpp/introduction/for-loop)
 
 ### ProjectEuler
 
