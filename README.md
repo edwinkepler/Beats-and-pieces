@@ -40,6 +40,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [06. Let's review](./HackerRank/30-days-of-coding/06-lets-review)
   - [07. Arrays](./HackerRank/30-days-of-coding/07-arrays)
   - [08. Dictionaries and maps](./HackerRank/30-days-of-coding/08-dictionaries-and-maps)
+  - [09. Recursion](./HackerRank/30-days-of-coding/09-recursion)
 
 - Algorithms
   - Warmup
