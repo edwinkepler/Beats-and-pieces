@@ -42,6 +42,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [08. Dictionaries and maps](./HackerRank/30-days-of-coding/08-dictionaries-and-maps)
   - [09. Recursion](./HackerRank/30-days-of-coding/09-recursion)
   - [10. Binary numbers](./HackerRank/30-dyas-of-coding/10-binary-numbers)
+  - [11. 2d arrays](./HackerRank/30-days-of-coding/11-2d-arrays)
 
 - Algorithms
   - Warmup
