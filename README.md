@@ -70,6 +70,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Basic data types](./HackerRank/cpp/introduction/basic-data-types)
     - [Conditional statements](./HackerRank/cpp/introduction/conditional-statements)
     - [For loop](./HackerRank/cpp/introduction/for-loop)
+    - [Functions](./HackerRank/cpp/introduction/functions)
 
 ### ProjectEuler
 
