@@ -68,6 +68,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Say "Hello, World" with C++](./HackerRank/cpp/introduction/say-hello-world-with-cpp)
     - [Input and output](./HackerRank/cpp/introduction/input-and-output)
     - [Basic data types](./HackerRank/cpp/introduction/basic-data-types)
+    - [Conditional statements](./HackerRank/cpp/introduction/conditional-statements)
 
 ### ProjectEuler
 
