@@ -73,6 +73,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Conditional statements](./HackerRank/cpp/introduction/conditional-statements)
     - [For loop](./HackerRank/cpp/introduction/for-loop)
     - [Functions](./HackerRank/cpp/introduction/functions)
+    - [Pointer](./HackerRank/cpp/introduction/pointer)
 
 ### ProjectEuler
 
