@@ -45,6 +45,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [11. 2d arrays](./HackerRank/30-days-of-coding/11-2d-arrays)
   - [12. Inheritance](./HackerRank/30-days-of-coding/12-inheritance)
   - [13. Abstract classes](./HackerRank/30-days-of-coding/13-abstract-classes)
+  - [14. Scope](./HackerRank/30-days-of-coding/14-scope)
 
 - Algorithms
   - Warmup
