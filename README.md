@@ -4,9 +4,9 @@ Programs and solutions from tutorials, daily coding routines and such.
 
 ## Table of content
 
-## BigBeat
+## BigBeats
  - [Conway's game of life](./BigBeat/game-of-life)
- 
+
 ### Exercism
 
 - C#
