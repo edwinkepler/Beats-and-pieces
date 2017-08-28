@@ -52,6 +52,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [15. Linked list](./HackerRank/30-days-of-coding/15-linked-list)
   - [16. Exceptions - string to integer](./HackerRank/30-days-of-coding/16-exceptions)
   - [17. More exceptions](./HackerRank/30-days-of-coding/17-more-exceptions)
+  - [18. Queues and stacks](./HackerRank/30-days-of-coding/18-queues-and-stacks)
 
 - Algorithms
   - Warmup
