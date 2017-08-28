@@ -48,6 +48,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [14. Scope](./HackerRank/30-days-of-coding/14-scope)
   - [15. Linked list](./HackerRank/30-days-of-coding/15-linked-list)
   - [16. Exceptions - string to integer](./HackerRank/30-days-of-coding/16-exceptions)
+  - [17. More exceptions](./HackerRank/30-days-of-coding/17-more-exceptions)
 
 - Algorithms
   - Warmup
