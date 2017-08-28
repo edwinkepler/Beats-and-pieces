@@ -68,6 +68,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Kangaroo](./HackerRank/algorithms/implementation/kangaroo)
     - [Breaking the records](./HackerRank/algorithms/implementation/breaking-the-records)
     - [Birthday chocolade](./HackerRank/algorithms/implementation/birthday-chocolade)
+    - [Divisible sum pairs](./HackerRank/algorithms/implementation/divisible-sum-pairs)
 
 - C++
   - Introduction
