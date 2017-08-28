@@ -5,7 +5,7 @@ Programs and solutions from tutorials, daily coding routines and such.
 ## Table of content
 
 ### BigBeats
- - [Conway's game of life](./BigBeat/game-of-life)
+ - [Conway's game of life](./BigBeats/game-of-life)
 
 ### Exercism
 
