@@ -73,6 +73,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Breaking the records](./HackerRank/algorithms/implementation/breaking-the-records)
     - [Birthday chocolade](./HackerRank/algorithms/implementation/birthday-chocolade)
     - [Divisible sum pairs](./HackerRank/algorithms/implementation/divisible-sum-pairs)
+    - [Migratory birds](./HackerRank/algorithms/implementatin/migratory-birds)
 
 - C++
   - Introduction
