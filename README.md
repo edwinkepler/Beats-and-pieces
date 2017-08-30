@@ -75,6 +75,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Birthday chocolade](./HackerRank/algorithms/implementation/birthday-chocolade)
     - [Divisible sum pairs](./HackerRank/algorithms/implementation/divisible-sum-pairs)
     - [Migratory birds](./HackerRank/algorithms/implementatin/migratory-birds)
+    - [Day of the programmer](./HackerRank/algorithms/implementation/day-of-the-programmer)
 
 - C++
   - Introduction
