@@ -89,6 +89,8 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Array introduction](./HackerRank/cpp/introduction/arrays-introduction)
     - [Variable sized arrays](./HackerRank/cpp/introductions/variable-sized-arrays)
     - [Virtual functions](./HackerRank/cpp/introductions/virtual-functions)
+  - Strings
+    - [Strings](./HackerRank/cpp/strings/strings)
 
 ### ProjectEuler
 
