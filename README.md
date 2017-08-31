@@ -92,6 +92,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Virtual functions](./HackerRank/cpp/introductions/virtual-functions)
   - Strings
     - [Strings](./HackerRank/cpp/strings/strings)
+    - [StringStream](./HackerRank/cpp/strings/stringstream)
 
 ### ProjectEuler
 
