@@ -6,6 +6,7 @@ Programs and solutions from tutorials, daily coding routines and such.
 
 ### BigBeats
  - [Conway's game of life](./BigBeats/game-of-life)
+ - [15-puzzle](./BigBeats/15-puzzle)
 
 ### Exercism
 
