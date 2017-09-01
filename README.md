@@ -96,6 +96,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Attribute-parser](./HackerRank/cpp/strings/attribute-parser)
   - Classes
     - [Structs](./HackerRank/cpp/classes/structs)
+    - [Class](./HackerRank/cpp/classes/class)
 
 ### ProjectEuler
 
