@@ -94,6 +94,8 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Strings](./HackerRank/cpp/strings/strings)
     - [StringStream](./HackerRank/cpp/strings/stringstream)
     - [Attribute-parser](./HackerRank/cpp/strings/attribute-parser)
+  - Classes
+    - [Structs](./HackerRank/cpp/classes/structs)
 
 ### ProjectEuler
 
