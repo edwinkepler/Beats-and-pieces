@@ -97,6 +97,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - Classes
     - [Structs](./HackerRank/cpp/classes/structs)
     - [Class](./HackerRank/cpp/classes/class)
+    - [Classes and objects](./HackerRank/cpp/classes/classes-and-objects)
 
 ### ProjectEuler
 
