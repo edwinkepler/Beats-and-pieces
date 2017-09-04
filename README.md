@@ -5,9 +5,9 @@ Programs and solutions from tutorials, daily coding routines and such.
 ## Table of content
 
 ### BigBeats
- - [Conway's game of life](./BigBeats/game-of-life)
  - [15-puzzle](./BigBeats/15-puzzle)
-
+ - [Conway's game of life](./BigBeats/game-of-life)
+ 
 ### Exercism
 
 - C#
