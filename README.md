@@ -55,6 +55,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [17. More exceptions](./HackerRank/30-days-of-coding/17-more-exceptions)
   - [18. Queues and stacks](./HackerRank/30-days-of-coding/18-queues-and-stacks)
   - [19. Interfaces](./HackerRank/30-days-of-coding/19-interfaces)
+  - [20. Sorting](./HackerRank/30-days-of-coding/20-sorting)
 
 - Algorithms
   - Warmup
