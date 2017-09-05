@@ -56,6 +56,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [18. Queues and stacks](./HackerRank/30-days-of-coding/18-queues-and-stacks)
   - [19. Interfaces](./HackerRank/30-days-of-coding/19-interfaces)
   - [20. Sorting](./HackerRank/30-days-of-coding/20-sorting)
+  - [21. Generics](./HackerRank/30-days-of-coding/21-generics)
 
 - Algorithms
   - Warmup
