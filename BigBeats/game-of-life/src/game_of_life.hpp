@@ -9,7 +9,7 @@
 std::vector<std::vector<bool> > new_rand_colony(int x, int y) {
     std::random_device rd;
     std::mt19937 eng(rd());
-    std::uniform_int_distribution<> distr(1, 10);
+    std::uniform_int_distribution<> distr(1, 40);
 
     std::vector<std::vector<bool> > colony;
     colony.resize(x, std::vector<bool>(y, 0));
@@ -18,7 +18,7 @@ std::vector<std::vector<bool> > new_rand_colony(int x, int y) {
     int cy = (y - y % 4) / 4;
     for(int i = cx; i < x - cx; ++i) {
         for(int j = cy; j < y - cy; ++j) {
-            if(distr(eng) > 6) {
+            if(distr(eng) == 40) {
                 colony[i][j] = true;
             } else {
                 colony[i][j] = false;
@@ -55,16 +55,32 @@ std::vector<std::vector<bool> > progress(std::vector<std::vector<bool> > _colony
     for(int i = 1; i < _colony.size() - 1; ++i) {
         for(int j = 1; j < _colony[0].size() - 1; ++j) {
             int alive = 0;
-            _colony[check_x(i-1, _colony)][check_y(j-1, _colony)] ? alive++ : alive = alive;
-            _colony[check_x(i, _colony)][check_y(j-1, _colony)] ? alive++ : alive = alive;
-            _colony[check_x(i+1, _colony)][check_y(j-1, _colony)] ? alive++ : alive = alive;
+            _colony[check_x(i-1, _colony)][check_y(j-1, _colony)] 
+                ? alive++ 
+                : alive = alive;
+            _colony[check_x(i, _colony)][check_y(j-1, _colony)] 
+                ? alive++ 
+                : alive = alive;
+            _colony[check_x(i+1, _colony)][check_y(j-1, _colony)] 
+                ? alive++ 
+                : alive = alive;
 
-            _colony[check_x(i-1, _colony)][check_y(j+1, _colony)] ? alive++ : alive = alive;
-            _colony[check_x(i, _colony)][check_y(j+1, _colony)] ? alive++ : alive = alive;
-            _colony[check_x(i+1, _colony)][check_y(j+1, _colony)] ? alive++ : alive = alive;
+            _colony[check_x(i-1, _colony)][check_y(j+1, _colony)] 
+                ? alive++ 
+                : alive = alive;
+            _colony[check_x(i, _colony)][check_y(j+1, _colony)] 
+                ? alive++ 
+                : alive = alive;
+            _colony[check_x(i+1, _colony)][check_y(j+1, _colony)] 
+                ? alive++ 
+                : alive = alive;
 
-            _colony[check_x(i-1, _colony)][check_y(j, _colony)] ? alive++ : alive = alive;
-            _colony[check_x(i+1, _colony)][check_y(j, _colony)] ? alive++ : alive = alive;
+            _colony[check_x(i-1, _colony)][check_y(j, _colony)] 
+                ? alive++ 
+                : alive = alive;
+            _colony[check_x(i+1, _colony)][check_y(j, _colony)] 
+                ? alive++ 
+                : alive = alive;
 
             if(_colony[i][j] && alive < 2) {
                 new_colony[i][j] = false;
