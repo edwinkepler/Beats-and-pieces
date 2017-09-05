@@ -4,10 +4,6 @@ Programs and solutions from tutorials, daily coding routines and such.
 
 ## Table of content
 
-### BigBeats
- - [15-puzzle](./BigBeats/15-puzzle)
- - [Conway's game of life](./BigBeats/game-of-life)
- 
 ### Exercism
 
 - C#
@@ -102,7 +98,11 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Class](./HackerRank/cpp/classes/class)
     - [Classes and objects](./HackerRank/cpp/classes/classes-and-objects)
 
-- Tutorials
+### Random
+ - [15-puzzle](./BigBeats/15-puzzle)
+ - [Conway's game of life](./BigBeats/game-of-life)
+
+### Tutorials
   - [Angular: Tour of Heroes](./Tutorials/angular-tour-of-heroes)
 
 ### ProjectEuler
