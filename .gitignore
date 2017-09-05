@@ -3,5 +3,6 @@
 build/
 obj/
 bin/
+node_modules/
 .vscode
-/tmp
+.tmp
