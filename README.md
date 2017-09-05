@@ -59,7 +59,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [21. Generics](./HackerRank/30-days-of-coding/21-generics)
 
 - Algorithms
-  - Warmup
+  - Warmup **(100%)**
     - [Solve me first](./HackerRank/algorithms/warmup/solve-me-first)
     - [Simple array sum](./HackerRank/algorithms/warmup/simple-array-sum)
     - [Compare the triplets](./HackerRank/algorithms/warmup/compare-the-triplets)
@@ -82,7 +82,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Day of the programmer](./HackerRank/algorithms/implementation/day-of-the-programmer)
 
 - C++
-  - Introduction
+  - Introduction **(100%)**
     - [Say "Hello, World" with C++](./HackerRank/cpp/introduction/say-hello-world-with-cpp)
     - [Input and output](./HackerRank/cpp/introduction/input-and-output)
     - [Basic data types](./HackerRank/cpp/introduction/basic-data-types)
@@ -93,7 +93,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Array introduction](./HackerRank/cpp/introduction/arrays-introduction)
     - [Variable sized arrays](./HackerRank/cpp/introductions/variable-sized-arrays)
     - [Virtual functions](./HackerRank/cpp/introductions/virtual-functions)
-  - Strings
+  - Strings **(100%)**
     - [Strings](./HackerRank/cpp/strings/strings)
     - [StringStream](./HackerRank/cpp/strings/stringstream)
     - [Attribute-parser](./HackerRank/cpp/strings/attribute-parser)
@@ -101,6 +101,9 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Structs](./HackerRank/cpp/classes/structs)
     - [Class](./HackerRank/cpp/classes/class)
     - [Classes and objects](./HackerRank/cpp/classes/classes-and-objects)
+
+- Tutorials
+  - [Angular: Tour of Heroes](./Tutorials/angular-tour-of-heroes)
 
 ### ProjectEuler
 
