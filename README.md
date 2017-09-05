@@ -98,16 +98,16 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Class](./HackerRank/cpp/classes/class)
     - [Classes and objects](./HackerRank/cpp/classes/classes-and-objects)
 
-### Random
- - [15-puzzle](./BigBeats/15-puzzle)
- - [Conway's game of life](./BigBeats/game-of-life)
-
-### Tutorials
-  - [Angular: Tour of Heroes](./Tutorials/angular-tour-of-heroes)
-
 ### ProjectEuler
 
 - [Multiples of 3 and 5](./ProjectEuler/multiples-of-3-and-5)
 - [Even Fibonacci numbers](./ProjectEuler/even-fibonacci-numbers)
 - [Largest prime factor](./ProjectEuler/largest-prime-factor)
 - [Largest palidrome product](./ProjectEuler/largest-palidrome-product)
+
+### Random
+ - [15-puzzle](./BigBeats/15-puzzle)
+ - [Conway's game of life](./BigBeats/game-of-life)
+
+### Tutorials
+  - [Angular: Tour of Heroes](./Tutorials/angular-tour-of-heroes)
