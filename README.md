@@ -53,6 +53,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [19. Interfaces](./HackerRank/30-days-of-coding/19-interfaces)
   - [20. Sorting](./HackerRank/30-days-of-coding/20-sorting)
   - [21. Generics](./HackerRank/30-days-of-coding/21-generics)
+  - [22. Binary search trees](./HackerRank/30-days-of-coding/22-binary-search-trees)
 
 - Algorithms
   - Warmup **(100%)**
