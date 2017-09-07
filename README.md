@@ -54,6 +54,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [20. Sorting](./HackerRank/30-days-of-coding/20-sorting)
   - [21. Generics](./HackerRank/30-days-of-coding/21-generics)
   - [22. Binary search trees](./HackerRank/30-days-of-coding/22-binary-search-trees)
+  - [23. BST level order traversal](./HackerRank/30-days-of-coding/23-bst-level-order-traversal)
 
 - Algorithms
   - Warmup **(100%)**
