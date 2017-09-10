@@ -57,6 +57,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [23. BST level order traversal](./HackerRank/30-days-of-coding/23-bst-level-order-traversal)
   - [24. More linked lists](./HackerRank/30-days-of-coding/24-more-linked-lists)
   - [25. Running time and complexity](./HackerRank/30-days-of-coding/25-running-time-and-complexity)
+  - [26. Nested logic](./HackerRank/30-days-of-code/26-nested-logic)
 
 - Algorithms
   - Warmup **(100%)**
