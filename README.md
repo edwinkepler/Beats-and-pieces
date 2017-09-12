@@ -30,7 +30,7 @@ Programs and solutions from tutorials, daily coding routines and such.
 
 ### HackerRank
 
-- 30 days of coding
+- 30 days of coding **(100%)**
   - [00. Hello, World](./HackerRank/30-days-of-coding/00-hello-world)
   - [01. Data types](./HackerRank/30-days-of-coding/01-data-types)
   - [02. Operators](./HackerRank/30-days-of-coding/02-operators)
@@ -59,6 +59,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [25. Running time and complexity](./HackerRank/30-days-of-coding/25-running-time-and-complexity)
   - [26. Nested logic](./HackerRank/30-days-of-code/26-nested-logic)
   - [28. Regex](./HackerRank/30-days-of-code/28-regex)
+  - [29. Bitwise AND](./HackerRank/30-days-of-coding/29-bitwise-and)
 
 - Algorithms
   - Warmup **(100%)**
