@@ -83,6 +83,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Divisible sum pairs](./HackerRank/algorithms/implementation/divisible-sum-pairs)
     - [Migratory birds](./HackerRank/algorithms/implementatin/migratory-birds)
     - [Day of the programmer](./HackerRank/algorithms/implementation/day-of-the-programmer)
+    - [Bon Appetit](./HackerRank/algorithms/implementation/bon-appetit)
 
 - C++
   - Introduction **(100%)**
