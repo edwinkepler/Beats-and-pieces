@@ -32,6 +32,7 @@ Programs and solutions from tutorials, daily coding routines and such.
 
 - 10 days of JavaScript
   - [00a. Hello, World](./HackerRank/10-days-of-js/00a-hello-world)
+  - [00b. Data types](./HackerRank/10-days-of-js/00b-data-types)
 
 - 30 days of coding **(100%)**
   - [00. Hello, World](./HackerRank/30-days-of-coding/00-hello-world)
