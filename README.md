@@ -35,6 +35,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [00b. Data types](./HackerRank/10-days-of-js/00b-data-types)
   - [01a. Arithmetic operators](./HackerRank/10-days-of-js/01a-arithmetic-operators)
   - [01b. Functions](./HackerRank/10-days-of-js/01b-functions)
+  - [01c. Let and const](./HackerRank/10-days-of-js/01c-let-and-const)
 
 - 30 days of coding **(100%)**
   - [00. Hello, World](./HackerRank/30-days-of-coding/00-hello-world)
