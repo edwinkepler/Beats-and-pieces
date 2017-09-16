@@ -38,6 +38,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [01c. Let and const](./HackerRank/10-days-of-js/01c-let-and-const)
   - [02a. If-else](./HackerRank/10-days-of-js/02a-if-else)
   - [02b. Switch](./HackerRank/10-days-of-js/02b-switch)
+  - [02c. Loop](./HackerRank/10-days-of-js/02c-loop)
 
 - 30 days of coding **(100%)**
   - [00. Hello, World](./HackerRank/30-days-of-coding/00-hello-world)
