@@ -41,6 +41,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [02c. Loop](./HackerRank/10-days-of-js/02c-loop)
   - [03a. Arrays](./HackerRank/10-days-of-coding/03a-arrays)
   - [03b. Try, catch](./HackerRank/10-days-of-coding/03b-try-catch)
+  - [03c. Throw](./HackerRank/10-days-of-coding/03c-throw)  
 
 - 30 days of coding **(100%)**
   - [00. Hello, World](./HackerRank/30-days-of-coding/00-hello-world)
