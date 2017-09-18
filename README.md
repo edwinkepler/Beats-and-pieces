@@ -39,9 +39,9 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [02a. If-else](./HackerRank/10-days-of-js/02a-if-else)
   - [02b. Switch](./HackerRank/10-days-of-js/02b-switch)
   - [02c. Loop](./HackerRank/10-days-of-js/02c-loop)
-  - [03a. Arrays](./HackerRank/10-days-of-coding/03a-arrays)
-  - [03b. Try, catch](./HackerRank/10-days-of-coding/03b-try-catch)
-  - [03c. Throw](./HackerRank/10-days-of-coding/03c-throw)
+  - [03a. Arrays](./HackerRank/10-days-of-js/03a-arrays)
+  - [03b. Try, catch](./HackerRank/10-days-of-js/03b-try-catch)
+  - [03c. Throw](./HackerRank/10-days-of-js/03c-throw)
   - [04a. Rectangle object](./HackerRank/10-days-of-js/04a-rectangle-object)
 
 - 30 days of coding **(100%)**
