@@ -46,6 +46,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [04b. Count objects](./HackerRank/10-days-of-js/04b-count-objects)
   - [04c. Classes](./HackerRank/10-days-of-js/04c-classes)
   - [05a. Inheritance](./HackerRank/10-days-of-js/05a-inheritance)
+  - [05c. Arrow function](./HackerRank/10-days-of-js/05c-arrow-functions)
 
 - 30 days of coding **(100%)**
   - [00. Hello, World](./HackerRank/30-days-of-coding/00-hello-world)
