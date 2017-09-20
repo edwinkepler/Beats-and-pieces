@@ -49,6 +49,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [05b. Template literals](./HackerRank/10-days-of-js/05b-template-literals)
   - [05c. Arrow function](./HackerRank/10-days-of-js/05c-arrow-functions)
   - [06a. Bitwise](./HackerRank/10-days-of-js/06a-bitwise)
+  - [06b. Dates](./HackerRank/10-days-of-js/06b-dates)
 
 - 30 days of coding **(100%)**
   - [00. Hello, World](./HackerRank/30-days-of-coding/00-hello-world)
