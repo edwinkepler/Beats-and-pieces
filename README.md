@@ -127,6 +127,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Class](./HackerRank/cpp/classes/class)
     - [Classes and objects](./HackerRank/cpp/classes/classes-and-objects)
     - [Box it](./HackerRank/cpp/classes/box-it)
+    - [Inherited code](./HackerRank/cpp/classes/inherited-code)
 
 ### ProjectEuler
 
