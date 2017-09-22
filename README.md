@@ -51,7 +51,8 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [06a. Bitwise](./HackerRank/10-days-of-js/06a-bitwise)
   - [06b. Dates](./HackerRank/10-days-of-js/06b-dates)
   - [07a. Regex I](./HackerRank/10-days-of-js/07a-regex-i)
-  - [07b. Regex II](./HackerRank/10-days-of-js/07b-regex-II)
+  - [07b. Regex II](./HackerRank/10-days-of-js/07b-regex-ii)
+  - [07c. Regex III](./HackerRank/10-days-of-js/07c-regex-iii)
 
 - 30 days of coding **(100%)**
   - [00. Hello, World](./HackerRank/30-days-of-coding/00-hello-world)
