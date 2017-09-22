@@ -50,6 +50,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [05c. Arrow function](./HackerRank/10-days-of-js/05c-arrow-functions)
   - [06a. Bitwise](./HackerRank/10-days-of-js/06a-bitwise)
   - [06b. Dates](./HackerRank/10-days-of-js/06b-dates)
+  - [07a. Regex I](./HackerRank/10-days-of-js/07-regex-i)
 
 - 30 days of coding **(100%)**
   - [00. Hello, World](./HackerRank/30-days-of-coding/00-hello-world)
