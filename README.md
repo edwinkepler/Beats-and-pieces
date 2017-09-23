@@ -53,6 +53,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [07a. Regex I](./HackerRank/10-days-of-js/07a-regex-i)
   - [07b. Regex II](./HackerRank/10-days-of-js/07b-regex-ii)
   - [07c. Regex III](./HackerRank/10-days-of-js/07c-regex-iii)
+  - [08a-button](./HackerRank/10-days-of-js/08a-button)
 
 - 30 days of coding **(100%)**
   - [00. Hello, World](./HackerRank/30-days-of-coding/00-hello-world)
