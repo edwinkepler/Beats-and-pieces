@@ -133,6 +133,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Classes and objects](./HackerRank/cpp/classes/classes-and-objects)
     - [Box it](./HackerRank/cpp/classes/box-it)
     - [Inherited code](./HackerRank/cpp/classes/inherited-code)
+    - [Exceptional server](./HackerRank/cpp/classes/exceptional-server)
 
 ### ProjectEuler
 
