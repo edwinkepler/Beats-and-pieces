@@ -134,6 +134,8 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Box it](./HackerRank/cpp/classes/box-it)
     - [Inherited code](./HackerRank/cpp/classes/inherited-code)
     - [Exceptional server](./HackerRank/cpp/classes/exceptional-server)
+  - STL
+    - [Vector-sort](./HackerRank/cpp/stl/vector-sort)
 
 ### ProjectEuler
 
