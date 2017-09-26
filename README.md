@@ -150,3 +150,4 @@ Programs and solutions from tutorials, daily coding routines and such.
 
 ### Tutorials
   - [Angular: Tour of Heroes](./Tutorials/angular-tour-of-heroes)
+  - [Asp.Net Core: ToDo](./Tutorials/asp-net-core-todo)
