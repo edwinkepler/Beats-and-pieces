@@ -110,6 +110,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Migratory birds](./HackerRank/algorithms/implementatin/migratory-birds)
     - [Day of the programmer](./HackerRank/algorithms/implementation/day-of-the-programmer)
     - [Bon Appetit](./HackerRank/algorithms/implementation/bon-appetit)
+    - [Sock merchant](./HackerRank/algorithms/implementation/sock-merchant)
 
 - C++
   - Introduction **(100%)**
