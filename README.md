@@ -139,6 +139,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Exceptional server](./HackerRank/cpp/classes/exceptional-server)
   - STL
     - [Vector-sort](./HackerRank/cpp/stl/vector-sort)
+    - [Vector-erase](./HackerRank/cpp/stl/vector-erase)
 
 ### ProjectEuler
 
