@@ -140,6 +140,8 @@ Programs and solutions from tutorials, daily coding routines and such.
   - STL
     - [Vector-sort](./HackerRank/cpp/stl/vector-sort)
     - [Vector-erase](./HackerRank/cpp/stl/vector-erase)
+    - [Lower Bound-STL](./HackerRank/cpp/stl/lower-bound-stl)
+    - [Sets-STL](./HackerRank/cpp/stl/sets-stl)
 
 ### ProjectEuler
 
