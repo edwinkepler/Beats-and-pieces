@@ -142,6 +142,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Vector-erase](./HackerRank/cpp/stl/vector-erase)
     - [Lower Bound-STL](./HackerRank/cpp/stl/lower-bound-stl)
     - [Sets-STL](./HackerRank/cpp/stl/sets-stl)
+    - [Maps-STL](./HackerRank/cpp/stl/maps-stl)
 
 ### ProjectEuler
 
