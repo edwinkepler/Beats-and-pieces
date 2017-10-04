@@ -113,6 +113,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Bon Appetit](./HackerRank/algorithms/implementation/bon-appetit)
     - [Sock merchant](./HackerRank/algorithms/implementation/sock-merchant)
     - [Drawing book](./HackerRank/algorithms/implementation/drawing-book)
+    - [Counting valleys](./HackerRank/algorithms/implementation/counting-valleys)
 
 - C++
   - Introduction **(100%)**
