@@ -114,6 +114,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Sock merchant](./HackerRank/algorithms/implementation/sock-merchant)
     - [Drawing book](./HackerRank/algorithms/implementation/drawing-book)
     - [Counting valleys](./HackerRank/algorithms/implementation/counting-valleys)
+    - [Electronics-Shop](./HackerRank/algorithms/implementation/electronics-shop)
 
 - C++
   - Introduction **(100%)**
