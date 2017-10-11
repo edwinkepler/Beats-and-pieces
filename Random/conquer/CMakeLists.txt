@@ -5,4 +5,4 @@ SET(CMAKE_CXX_STANDARD 11)
 
 project(conquer)
 
-add_executable(conquer tui.cpp citizen.cpp)
+add_executable(conquer tui.cpp src/citizen.cpp src/simulation.cpp)

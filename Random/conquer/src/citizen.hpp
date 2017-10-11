@@ -3,7 +3,7 @@
 
 class Citizen {
 public:
-    Citizen(char _race, int _id);
+    Citizen(char, int);
     ~Citizen();
 
     int str();
