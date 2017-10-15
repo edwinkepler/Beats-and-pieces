@@ -163,6 +163,6 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Angular: Tour of Heroes](./Tutorials/angular-tour-of-heroes)
   - [Asp.Net Core: ToDo app](./Tutorials/asp-net-core-todo)
   - [Haskell: Learn you a Haskell](./Tutorials/haskell-learn-you)
-  - [Haskell: Real world](./Tutorials/haskell-real-world)
+  - [Haskell: Real world Haskell](./Tutorials/haskell-real-world)
   - [Java: Reaktor PWN](./Tutorials/java-reaktor-pwn)
   - [SDL: Beginning Game Programming v.2.0](./Tutorials/sdl-beginning-game-programming)
