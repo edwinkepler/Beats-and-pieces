@@ -1,15 +1,17 @@
 #ifndef CITIZEN_HPP
 #define CITIZEN_HPP
 
+#include <string>
+
 class Citizen {
 public:
-    Citizen(char, int);
+    Citizen(char, std::string);
     ~Citizen();
 
     int str();
     bool sex();
     int fertility();
-    int id();
+    std::string name();
     char race();
     bool dead();
     void kill();
@@ -20,7 +22,7 @@ private:
     int i_str;
     bool f_sex;
     int i_fertility;
-    int i_id;
+    std::string s_name;
     char c_race;
     bool f_dead;
     int i_age;

@@ -1,7 +1,7 @@
 #include "citizen.hpp"
 #include <random>
 
-Citizen::Citizen(char _race, int _id) {
+Citizen::Citizen(char _race, std::string _name) {
     std::random_device rd;
     std::mt19937 eng(rd());
     std::uniform_int_distribution<> ten(0, 10);
@@ -10,7 +10,7 @@ Citizen::Citizen(char _race, int _id) {
     i_str = ten(eng);
     f_sex = two(eng);
     i_fertility = ten(eng);
-    i_id = _id;
+    s_name = _name;
     c_race = _race;
     f_dead = false;
     i_age = 0;
@@ -31,8 +31,8 @@ int Citizen::fertility() {
     return i_fertility;
 }
 
-int Citizen::id() {
-    return i_id;
+std::string Citizen::name() {
+    return s_name;
 }
 
 char Citizen::race() {
