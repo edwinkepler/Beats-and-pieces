@@ -2,10 +2,8 @@
 #define SIMULATION_HPP
 
 #include <vector>
-#include <memory>
+#include <tuple>
 #include "citizen.hpp"
-
-using namespace std;
 
 class Simulation {
 public:
@@ -13,12 +11,12 @@ public:
     ~Simulation();
 
     void print();
+    std::tuple<int, int> land_size();
 
 private:
-    vector<vector<shared_ptr<Citizen>>> v_land;
+    std::string create_name();
 
-    int id_0 = 0;
-    int id_1 = 0;
+    std::vector<std::vector<Citizen*>> v_land;
 };
 
 #endif // SIMULATION_HPP

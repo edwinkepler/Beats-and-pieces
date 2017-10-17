@@ -10,7 +10,7 @@ int main() {
     const char race_0 = '0';
     const char race_1 = '1';
 
-    Simulation* sim = new Simulation(race_0, race_1, 300, 100);
-
+    shared_ptr<Simulation> sim { new Simulation(race_0, race_1, 40, 100) };
+    sim->print();
     return 0;
 }
