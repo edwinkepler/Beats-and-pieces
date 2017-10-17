@@ -43,14 +43,18 @@ bool Citizen::dead() {
     return f_dead;
 }
 
-void Citizen::kill() {
-    f_dead = true;
-}
-
 bool Citizen::plague_carrier() {
     return f_plague_carrier;
 }
 
 int Citizen::age() {
     return i_age;
+}
+
+void Citizen::grow() {
+    ++i_age;
+}
+
+void Citizen::kill() {
+    f_dead = true;
 }

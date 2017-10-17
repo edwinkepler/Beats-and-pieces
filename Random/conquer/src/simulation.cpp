@@ -6,7 +6,7 @@
 
 Simulation::Simulation(char _race_0, char _race_1, int _x, int _y) {
     if(_x < 10 || _y < 10) {
-        throw std::invalid_argument("Land too small");
+        throw std::invalid_argument("Land too small.");
     } else {
         v_land.resize(_x, std::vector<Citizen*>(_y, nullptr));
 
@@ -27,6 +27,38 @@ Simulation::~Simulation() {
         for(int j = 0; j < v_land[0].size(); ++j) {
             if(v_land[i][j] != nullptr) {
                 delete v_land[i][j];
+            }
+        }
+    }
+}
+
+void Simulation::progress(int _step) {
+    if(_step <= 0) {
+        throw std::invalid_argument("Step must be a positive number.");
+    } else {
+        i_steps = i_steps + _step;
+        for(int i = 0; i < _step; i++) {
+            // Check for death from age
+            for(int i = 0; i < v_land.size(); ++i) {
+                for(int j = 0; j < v_land[0].size(); ++j) {
+                    if(v_land[i][j] != nullptr) {
+                        auto tmp = v_land[i][j];
+                        if(tmp->age() >= DEATH_FROM_AGE) {
+                            tmp->kill();
+                            v_graveyard.push_back(tmp);
+                            v_land[i][j] = nullptr;
+                        }
+                    }
+                }
+            }
+
+            // Add age
+            for(int i = 0; i < v_land.size(); ++i) {
+                for(int j = 0; j < v_land[0].size(); ++j) {
+                    if(v_land[i][j] != nullptr) {
+                        v_land[i][j]->grow();
+                    }
+                }
             }
         }
     }

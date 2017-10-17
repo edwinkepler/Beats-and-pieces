@@ -14,9 +14,11 @@ public:
     std::string name();
     char race();
     bool dead();
-    void kill();
     bool plague_carrier();
     int age();
+
+    void grow();
+    void kill();
 
 private:
     int i_str;
