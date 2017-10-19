@@ -34,14 +34,14 @@ bool init() {
             std::cout << SDL_GetError() << std::endl;
             f_init = false;    
         } else {
-			int img_flags = IMG_INIT_PNG;
-			if(!(IMG_Init(img_flags) & img_flags)) {
+            int img_flags = IMG_INIT_PNG;
+            if(!(IMG_Init(img_flags) & img_flags)) {
                 std::cout << "SDL_image could not initialize! SDL_image Error: ";
                 std::cout << IMG_GetError() << std::endl;
-				f_init = false;
-			} else {
-				sur_screen_surface = SDL_GetWindowSurface(g_window);
-			}
+                f_init = false;
+            } else {
+                sur_screen_surface = SDL_GetWindowSurface(g_window);
+            }
         }
     }
 
