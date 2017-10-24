@@ -30,6 +30,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Nucleotide count](./Exercism/cpp/nucleotide-count)
   - [Food chain](./Exercism/cpp/food-chain)
   - [Phone number](./Exercism/cpp/phone-number)
+  - [Grade school](./Exercism/cpp/grade-school)
 
 ### HackerRank
 
