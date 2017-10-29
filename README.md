@@ -105,6 +105,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Mini-max sum](./HackerRank/algorithms/warmup/mini-max-sum)
     - [Birthday cake candles](./HackerRank/algorithms/warmup/birthday-cake-candles)
     - [Time convertion](./HackerRank/algorithms/warmup/time-convertion)
+    - [LEGOs](./HackerRank/algorithms/warmup/legos)
   - Implementation
     - [Grading students](./HackerRank/algorithms/implementation/grading-students)
     - [Apple and orange](./HackerRank/algorithms/implementation/apple-and-orange)
