@@ -1,6 +1,8 @@
 *.directory
 *a.out
+*.lock
 build/
+target/
 obj/
 bin/
 node_modules/
