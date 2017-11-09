@@ -15,4 +15,14 @@ fn main() {
 
     let spaces = "     ";
     let spaces = spaces.len();
+
+    let tup = (500, 6.4, 1);
+    let (a, b, c) = tup;
+
+    println!("The value of a is: {}", a);
+
+    let tup_2: (i32, f64, u8) = (500, 6.4, 1);
+    let five_hundred = tup_2.0;
+    let six_point_four = tup_2.1;
+    let one = tup_2.2;
 }
