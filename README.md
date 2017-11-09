@@ -95,7 +95,7 @@ Programs and solutions from tutorials, daily coding routines and such.
 
 - Algorithms
   - Warmup **(100%)**
-    - [Solve me first](./HackerRank/algorithms/warmup/solve-me-first)[[C++](./HackerRank/algorithms/warmup/solve-me-first/cpp)|[Rust](./HackerRank/algorithms/warmup/solve-me-first/rust)]
+    - [Solve me first](./HackerRank/algorithms/warmup/solve-me-first) [[C++](./HackerRank/algorithms/warmup/solve-me-first/cpp)|[Rust](./HackerRank/algorithms/warmup/solve-me-first/rust)]
     - [Simple array sum](./HackerRank/algorithms/warmup/simple-array-sum)
     - [Compare the triplets](./HackerRank/algorithms/warmup/compare-the-triplets)
     - [A very big sum](./HackerRank/algorithms/warmup/a-very-big-sum)
