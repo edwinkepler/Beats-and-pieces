@@ -2,6 +2,7 @@
 *a.out
 *.lock
 *.obj
+*.pdb
 *.exe
 build/
 target/
