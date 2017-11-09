@@ -1,6 +1,8 @@
 *.directory
 *a.out
 *.lock
+*.obj
+*.exe
 build/
 target/
 obj/
