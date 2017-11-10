@@ -6,17 +6,6 @@ Programs and solutions from tutorials, daily coding routines and such.
 
 ### Exercism
 
-- C#
-  - [Hello, World!](./Exercism/csharp/hello-world)
-  - [Leap](./Exercism/csharp/leap)
-  - [Bob](./Exercism/csharp/bob)
-  - [Sum of multiples](./Exercism/csharp/sum-of-multiples)
-  - [Raindrops](./Exercism/csharp/raindrops)
-  - [Nucleotide count](./Exercism/csharp/nucleotide-count)
-  - [Accumulate](./Exercism/csharp/accumulate)
-  - [Grade school](./Exercism/csharp/grade-school)
-
-
 - C++
   - [Hello, World!](./Exercism/cpp/hello-world)
   - [Leap](./Exercism/cpp/leap)
@@ -32,6 +21,16 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Phone number](./Exercism/cpp/phone-number)
   - [Grade school](./Exercism/cpp/grade-school)
   - [Robot name](./Exercism/cpp/robot-name)
+
+- C#
+  - [Hello, World!](./Exercism/csharp/hello-world)
+  - [Leap](./Exercism/csharp/leap)
+  - [Bob](./Exercism/csharp/bob)
+  - [Sum of multiples](./Exercism/csharp/sum-of-multiples)
+  - [Raindrops](./Exercism/csharp/raindrops)
+  - [Nucleotide count](./Exercism/csharp/nucleotide-count)
+  - [Accumulate](./Exercism/csharp/accumulate)
+  - [Grade school](./Exercism/csharp/grade-school)
 
 ### HackerRank
 
