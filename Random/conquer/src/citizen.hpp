@@ -6,6 +6,7 @@
 class Citizen {
 public:
     Citizen(char, std::string);
+    Citizen(char, std::string, bool);
     ~Citizen();
 
     int str();
