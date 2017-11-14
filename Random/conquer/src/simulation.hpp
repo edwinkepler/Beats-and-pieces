@@ -8,6 +8,7 @@
 class Simulation {
 public:
     Simulation(char, char, int, int);
+    Simulation(char, char, char, char, int, int);
     ~Simulation();
 
     void progress(int);

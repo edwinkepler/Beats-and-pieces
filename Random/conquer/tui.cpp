@@ -9,8 +9,10 @@ using namespace std;
 int main() {
     const char race_0 = '0';
     const char race_1 = '1';
+    const char race_2 = 'a';
+    const char race_3 = 'b';
 
-    shared_ptr<Simulation> sim { new Simulation(race_0, race_1, 20, 50) };
+    shared_ptr<Simulation> sim { new Simulation(race_0, race_1, race_2, race_3, 20, 50) };
     sim->print();
     while(1) {
         sim->progress(1);

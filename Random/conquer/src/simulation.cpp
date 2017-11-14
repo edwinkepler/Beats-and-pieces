@@ -22,6 +22,34 @@ Simulation::Simulation(char _race_0, char _race_1, int _x, int _y) {
     }
 }
 
+Simulation::Simulation(char _race_0, char _race_1, char _race_2, char _race_3, int _x, int _y) {
+    if(_x < 10 || _y < 10) {
+        throw std::invalid_argument("Land too small.");
+    } else {
+        v_land.resize(_x, std::vector<Citizen*>(_y, nullptr));
+
+        v_land[0][0] = new Citizen(_race_0, create_name(), 1);
+        v_land[1][0] = new Citizen(_race_0, create_name(), 0);
+        v_land[0][1] = new Citizen(_race_0, create_name(), 1);
+        v_land[1][1] = new Citizen(_race_0, create_name(), 0);
+
+        v_land[_x - 1][_y - 1] = new Citizen(_race_1, create_name(), 1);
+        v_land[_x - 2][_y - 1] = new Citizen(_race_1, create_name(), 0);
+        v_land[_x - 1][_y - 2] = new Citizen(_race_1, create_name(), 1);
+        v_land[_x - 2][_y - 2] = new Citizen(_race_1, create_name(), 0);
+
+        v_land[0][_y - 1] = new Citizen(_race_2, create_name(), 1);
+        v_land[1][_y - 1] = new Citizen(_race_2, create_name(), 0);
+        v_land[0][_y - 2] = new Citizen(_race_2, create_name(), 1);
+        v_land[1][_y - 2] = new Citizen(_race_2, create_name(), 0);
+
+        v_land[_x - 1][0] = new Citizen(_race_3, create_name(), 1);
+        v_land[_x - 1][1] = new Citizen(_race_3, create_name(), 0);
+        v_land[_x - 2][0] = new Citizen(_race_3, create_name(), 1);
+        v_land[_x - 2][1] = new Citizen(_race_3, create_name(), 0);
+    }
+}
+
 Simulation::~Simulation() {
     for(int i = 0; i < v_land.size(); ++i) {
         for(int j = 0; j < v_land[0].size(); ++j) {
