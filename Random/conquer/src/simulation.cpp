@@ -152,9 +152,14 @@ void Simulation::progress(int _step) {
                         ptr_citizen->grow();
                         // Check for death from age
                         if(ptr_citizen->age() >= DEATH_FROM_AGE) {
-                            ptr_citizen->kill();
-                            v_graveyard.push_back(ptr_citizen);
-                            v_land[i][j] = nullptr;
+                            std::random_device rd;
+                            std::mt19937 eng(rd());
+                            std::uniform_int_distribution<> two(0, 1);
+                            if(two(eng) == 1) {
+                                ptr_citizen->kill();
+                                v_graveyard.push_back(ptr_citizen);
+                                v_land[i][j] = nullptr;
+                            }
                         }
                     }
                 }
