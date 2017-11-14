@@ -14,8 +14,11 @@ public:
     void print();
     std::tuple<int, int> land_size();
 
+    std::vector<Citizen*> graveyard();
+
 private:
     std::string create_name();
+    void check_for_space_for_offspring(int, int, char);
 
     std::vector<std::vector<Citizen*>> v_land;
     std::vector<Citizen*> v_graveyard;

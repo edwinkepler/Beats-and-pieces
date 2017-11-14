@@ -17,6 +17,22 @@ Citizen::Citizen(char _race, std::string _name) {
     ten(eng) > i_plague_threshold ? f_plague_carrier = true : f_plague_carrier = false;
 }
 
+Citizen::Citizen(char _race, std::string _name, bool _sex) {
+    std::random_device rd;
+    std::mt19937 eng(rd());
+    std::uniform_int_distribution<> ten(0, 10);
+    std::uniform_int_distribution<> two(0, 1);
+
+    i_str = ten(eng);
+    f_sex = _sex;
+    i_fertility = ten(eng);
+    s_name = _name;
+    c_race = _race;
+    f_dead = false;
+    i_age = 0;
+    ten(eng) > i_plague_threshold ? f_plague_carrier = true : f_plague_carrier = false;
+}
+
 Citizen::~Citizen() {};
 
 int Citizen::str() {
