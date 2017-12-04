@@ -26,6 +26,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - [Scrabble score](./Exercism/cpp/scrabble-score)
   - [Triangle](./Exercism/cpp/triangle)
   - [Grains](./Exercism/cpp/grains)
+  - [Raindrops](./Exercism/cpp/raindrops)
 
 - C#
   - [Hello, World!](./Exercism/csharp/hello-world)
