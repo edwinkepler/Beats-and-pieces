@@ -126,6 +126,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Drawing book](./HackerRank/algorithms/implementation/drawing-book)
     - [Counting valleys](./HackerRank/algorithms/implementation/counting-valleys)
     - [Electronics-Shop](./HackerRank/algorithms/implementation/electronics-shop)
+    - [Cats and mouse](./HackerRank/algorithms/implementation/cats-and-mouse)
 
 - C++
   - Introduction **(100%)**
