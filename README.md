@@ -127,6 +127,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Counting valleys](./HackerRank/algorithms/implementation/counting-valleys)
     - [Electronics-Shop](./HackerRank/algorithms/implementation/electronics-shop)
     - [Cats and mouse](./HackerRank/algorithms/implementation/cats-and-mouse)
+    - [Forming a magic square](./HackerRank/algorithms/implementation/forming-a-magic-square)
 
 - C++
   - Introduction **(100%)**
