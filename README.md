@@ -129,6 +129,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Cats and mouse](./HackerRank/algorithms/implementation/cats-and-mouse)
     - [Forming a magic square](./HackerRank/algorithms/implementation/forming-a-magic-square)
     - [Hurdle race](./HackerRank/algorithms/implementation/hurdle-race)
+    - [Utopian tree](./HackerRank/algorithms/implementation/utpian-tree)
 
 - C++
   - Introduction **(100%)**
