@@ -130,6 +130,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Forming a magic square](./HackerRank/algorithms/implementation/forming-a-magic-square)
     - [Hurdle race](./HackerRank/algorithms/implementation/hurdle-race)
     - [Utopian tree](./HackerRank/algorithms/implementation/utpian-tree)
+    - [Angry professor](./HackerRank/algorithms/implementation/angry-professor)
 
 - C++
   - Introduction **(100%)**
