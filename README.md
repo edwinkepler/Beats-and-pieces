@@ -131,6 +131,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Hurdle race](./HackerRank/algorithms/implementation/hurdle-race)
     - [Utopian tree](./HackerRank/algorithms/implementation/utpian-tree)
     - [Angry professor](./HackerRank/algorithms/implementation/angry-professor)
+    - [Beatiful days at the movies](./HackerRank/algorithms/implementation/beatiful-days-at-the-movies)
 
 - C++
   - Introduction **(100%)**
