@@ -132,6 +132,8 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Utopian tree](./HackerRank/algorithms/implementation/utpian-tree)
     - [Angry professor](./HackerRank/algorithms/implementation/angry-professor)
     - [Beatiful days at the movies](./HackerRank/algorithms/implementation/beatiful-days-at-the-movies)
+  - Sorting
+    - [Intro](./HackerRank/algorithms/sorting/intro-to-tutorial-challanges)
 
 - C++
   - Introduction **(100%)**
