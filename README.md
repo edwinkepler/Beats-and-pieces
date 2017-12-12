@@ -166,6 +166,8 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Maps-STL](./HackerRank/cpp/stl/maps-stl)
   - Inheritance
     - [Inheritance introduction](./HackerRank/cpp/inheritance/inheritance-introduction)
+  - Other concepts
+    - [Class templates](./HackerRank/cpp/other-concepts/cpp-class-templates)
 
 ### ProjectEuler
 
