@@ -169,6 +169,10 @@ Programs and solutions from tutorials, daily coding routines and such.
   - Other concepts
     - [Class templates](./HackerRank/cpp/other-concepts/cpp-class-templates)
 
+- Data structures
+  - Arrays
+    - [Arrays-DS](./HackerRank/data-structures/arrays/arrays-ds)
+
 ### ProjectEuler
 
 - [Multiples of 3 and 5](./ProjectEuler/multiples-of-3-and-5)
