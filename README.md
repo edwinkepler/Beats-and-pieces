@@ -175,6 +175,7 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [2D array-ds](./HackerRank/data-structures/arrays/2d-array-ds)
     - [Dynamic array](./HackerRank/data-structures/arrays/dynamic-array)
     - [Left rotation](./HackerRank/data-structures/arrays/left-rotation)
+    - [Sparse arrays](./HackerRank/data-structures/arrays/sparse-arrays)
 
 ### ProjectEuler
 
