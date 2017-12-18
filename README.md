@@ -177,6 +177,10 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Left rotation](./HackerRank/data-structures/arrays/left-rotation)
     - [Sparse arrays](./HackerRank/data-structures/arrays/sparse-arrays)
 
+- Functional programming
+  - Introduction
+    - [Solve me first](./HackerRank/functional-programming/introduction/solve-me-first)
+
 ### ProjectEuler
 
 - [Multiples of 3 and 5](./ProjectEuler/multiples-of-3-and-5)
