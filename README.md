@@ -180,6 +180,7 @@ Programs and solutions from tutorials, daily coding routines and such.
 - Functional programming
   - Introduction
     - [Solve me first](./HackerRank/functional-programming/introduction/solve-me-first)
+    - [Hello World](./HackerRank/functional-programming/introduction/hello-world)
 
 ### ProjectEuler
 
