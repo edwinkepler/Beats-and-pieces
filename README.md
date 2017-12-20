@@ -181,6 +181,7 @@ Programs and solutions from tutorials, daily coding routines and such.
   - Introduction
     - [Solve me first](./HackerRank/functional-programming/introduction/solve-me-first)
     - [Hello World](./HackerRank/functional-programming/introduction/hello-world)
+    - [Hello World N times](./HackerRank/functional-programming/introduction/hello-world-n-times)
 
 ### ProjectEuler
 
