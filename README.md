@@ -183,6 +183,10 @@ Programs and solutions from tutorials, daily coding routines and such.
     - [Hello World](./HackerRank/functional-programming/introduction/hello-world)
     - [Hello World N times](./HackerRank/functional-programming/introduction/hello-world-n-times)
 
+- Python
+  - Introduction
+    - [Hello World](./HackerRank/python/introduction/hello-world)
+
 ### ProjectEuler
 
 - [Multiples of 3 and 5](./ProjectEuler/multiples-of-3-and-5)
